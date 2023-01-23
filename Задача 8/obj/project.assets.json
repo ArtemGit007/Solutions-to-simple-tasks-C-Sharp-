@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Simple Programs C#\\Simple Programs C#.csproj",
-      "projectName": "Simple Programs C#",
-      "projectPath": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Simple Programs C#\\Simple Programs C#.csproj",
+      "projectUniqueName": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Варианты решений несложных задач C#\\Solutions-to-simple-tasks-C-Sharp\\Задача 8\\Задача 8.csproj",
+      "projectName": "Задача 8",
+      "projectPath": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Варианты решений несложных задач C#\\Solutions-to-simple-tasks-C-Sharp\\Задача 8\\Задача 8.csproj",
       "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Simple Programs C#\\obj\\",
+      "outputPath": "C:\\Users\\Артем\\OneDrive\\Рабочий стол\\Варианты решений несложных задач C#\\Solutions-to-simple-tasks-C-Sharp\\Задача 8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config"

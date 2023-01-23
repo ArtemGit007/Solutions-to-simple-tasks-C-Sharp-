@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\bin\Debug\net7.0\Задача 8.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\bin\Debug\net7.0\Задача 8.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\bin\Debug\net7.0\Задача 8.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\bin\Debug\net7.0\Задача 8.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\bin\Debug\net7.0\Задача 8.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\refint\Задача 8.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\Задача 8.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 8\obj\Debug\net7.0\ref\Задача 8.dll
