@@ -10,8 +10,8 @@ for (int j = 0; j < str.Length; j++)
     b[j] = int.Parse(str[j].ToString());
 
 }
-
-int res = b[0] * b[1] * b[2] * b[5];
+// для произведения цифр пятизначного числа
+int res = b[0] * b[1] * b[2] * b[3] * b[4] * b[5] ;
 
 Console.WriteLine(res);
 
