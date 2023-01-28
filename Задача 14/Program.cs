@@ -1,11 +1,15 @@
-﻿ // Даны два целых числа. Найти: а) их среднее арифметическое; б) их среднее геометрическое.
-
-Console.WriteLine("Введите первое число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите второе число: ");
-int b = Convert.ToInt32(Console.ReadLine());
-
-double mathAver = (a + b)/2;
-Console.WriteLine("Среднее арифметическое введенных чисел равно {0}", mathAver);
-double geomAver = Math.Sqrt(a + b);
-Console.WriteLine("Среднее геометрическое введенных чисел равно {0}", geomAver);
+﻿int[] a = new int[10];
+            int result=1;
+            Console.WriteLine("Исходный массив");
+            for (int i = 0; i < a.GetLength(0); i++) 
+            {
+                a[i] = rnd.Next(1, 10);
+                Console.WriteLine(a[i]);
+            }
+            Console.WriteLine("");
+            for (int i = 0; i < a.GetLength(0); i++)
+            {
+                result *= a[i];
+            }
+            Console.WriteLine("Произведение = {0}", result);
+            Console.ReadKey();
