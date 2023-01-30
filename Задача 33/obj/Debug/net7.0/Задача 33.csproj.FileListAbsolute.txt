@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\bin\Debug\net7.0\Задача 33.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\bin\Debug\net7.0\Задача 33.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\bin\Debug\net7.0\Задача 33.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\bin\Debug\net7.0\Задача 33.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\bin\Debug\net7.0\Задача 33.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\refint\Задача 33.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\Задача 33.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 33\obj\Debug\net7.0\ref\Задача 33.dll
