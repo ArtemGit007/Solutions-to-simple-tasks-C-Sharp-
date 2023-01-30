@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\bin\Debug\net7.0\Задача 26.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\bin\Debug\net7.0\Задача 26.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\bin\Debug\net7.0\Задача 26.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\bin\Debug\net7.0\Задача 26.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\bin\Debug\net7.0\Задача 26.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\refint\Задача 26.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\Задача 26.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Варианты решений несложных задач C#\Solutions-to-simple-tasks-C-Sharp\Задача 26\obj\Debug\net7.0\ref\Задача 26.dll
