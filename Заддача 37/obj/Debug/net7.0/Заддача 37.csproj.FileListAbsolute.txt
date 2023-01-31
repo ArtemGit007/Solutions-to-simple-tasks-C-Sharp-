@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\bin\Debug\net7.0\Заддача 37.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\bin\Debug\net7.0\Заддача 37.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\bin\Debug\net7.0\Заддача 37.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\bin\Debug\net7.0\Заддача 37.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\bin\Debug\net7.0\Заддача 37.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\refint\Заддача 37.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\Заддача 37.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Simple tasks\Solutions-to-simple-tasks-C-Sharp-\Заддача 37\obj\Debug\net7.0\ref\Заддача 37.dll
